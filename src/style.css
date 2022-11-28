@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+#gradient1,
+#gradient2 {
+    display: inline-block;
+    position: relative;
+    width: 256px;
+    height: 256px;
+}
